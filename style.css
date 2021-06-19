@@ -93,3 +93,10 @@ table {
       background-color: cornflowerblue;
       border: 1px black solid;
   }
+
+  #ellogo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
